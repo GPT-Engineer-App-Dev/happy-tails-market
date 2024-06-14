@@ -12,7 +12,7 @@ const Index = () => {
           Find your perfect furry friend today!
         </Text>
         <Box boxSize="sm">
-          <Image src="/images/hero-dog.jpg" alt="Hero Dog" borderRadius="lg" />
+          <Image src="https://via.placeholder.com/400x300" alt="Hero Dog" borderRadius="lg" />
         </Box>
         <Flex direction={{ base: "column", md: "row" }} spacing={4} mt={8}>
           <Button leftIcon={<FaDog />} colorScheme="teal" size="lg" m={2}>
